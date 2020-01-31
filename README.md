@@ -23,13 +23,20 @@ Below tools are required to create a for a webpage and deploying them using gtih
 
 >You can get more imferomation on web development on designing webpages are:
 
-[W3SCHOOLS](https://www.w3schools.com/)
-[FREECODECAMP](https://www.freecodecamp.org/)
-[TREEHOUSE](https://teamtreehouse.com/)
+- [W3SCHOOLS](https://www.w3schools.com/)
+
+
+- [FREECODECAMP](https://www.freecodecamp.org/)
+
+
+- [TREEHOUSE](https://teamtreehouse.com/)
 
 ## CONTRIBUTERS 
 
-NAME : SAI ROHITH GORLA
-PROGRAM : APPLIED COMPUTER SCIENCE
++ NAME : SAI ROHITH GORLA 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Ftop-web-development-trends-you-need-to-consider-for-your-project-in-2019-37e4c83b691d&psig=AOvVaw1-fLW5_8cEabrs7Mzjyjrk&ust=1580580005883000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOigxsW1rucCFQAAAAAdAAAAABAD)
++ PROGRAM : APPLIED COMPUTER SCIENCE
+
+![IMAGE](https://wallpaperplay.com/walls/full/6/e/f/164611.jpg) 
+
+SOURCE [wallpaperplay](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperplay.com%2Fboard%2Fweb-developer-wallpapers&psig=AOvVaw3Ew9lImmmsqhPbeNDMng5a&ust=1580580466185000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCLD84pu3rucCFQAAAAAdAAAAABAD)
